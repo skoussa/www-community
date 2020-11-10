@@ -75,7 +75,7 @@ are free for Open Source projects:
   - [reshift](https://www.softwaresecured.com/reshift) - A CI/CD tool
     that uses static code analysis to scan for vulnerabilities and uses
     machine learning to give a prediction on false positives. Supports
-    Java with future support for NodeJS and JavaScript planned. If you 
+    Java and JavaScript. If you 
     go to the Pricing section on this page, it says it is free for public repositories.
   - [Xanitizer](https://www.xanitizer.com/xanitizer-pricing/) - A SAST tool
     for Java, Scala, and JavaScript/TypeScript. Per this pricing page, it
